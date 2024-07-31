@@ -1,4 +1,9 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
 $APPLICATION->SetTitle("Контакты");
-?>Контакты<?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>
+?>Контакты<br>
+ <?$APPLICATION->IncludeComponent(
+	"bitrix:main.include",
+	"",
+Array()
+);?><br><?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

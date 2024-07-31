@@ -1,0 +1,5 @@
+IE_XML_ID;IE_NAME;IE_ID;IE_ACTIVE;IE_ACTIVE_FROM;IE_ACTIVE_TO;IE_PREVIEW_PICTURE;IE_PREVIEW_TEXT;IE_PREVIEW_TEXT_TYPE;IE_DETAIL_PICTURE;IE_DETAIL_TEXT;IE_DETAIL_TEXT_TYPE;IE_CODE;IE_SORT;IE_TAGS;IP_PROP9;IP_PROP10;IP_PROP16;IP_PROP14;IP_PROP17;IP_PROP15;IP_PROP13;IP_PROP11;IP_PROP12;IC_GROUP0;IC_GROUP1;IC_GROUP2
+1;Объявление 1;1;Y;2024-01-01;2024-12-31;;Краткое описание 1;text;;Детальное описание 1;text;obyavlenie-1;;;;;;;;;;;;;;
+2;Объявление 2;2;Y;2024-01-01;2024-12-31;;Краткое описание 2;text;;Детальное описание 2;text;obyavlenie-2;;;;;;;;;;;;;;
+3;Объявление 3;3;Y;2024-01-01;2024-12-31;;Краткое описание 3;text;;Детальное описание 3;text;obyavlenie-3;;;;;;;;;;;;;;
+...;...;...;...;;;;;;;;;;;;;;;;;;;;;;;

@@ -1,7 +1,9 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
 $APPLICATION->SetTitle("Вакансии");
-?><?$APPLICATION->IncludeComponent(
+?><br>
+ Вакансии<br>
+<?$APPLICATION->IncludeComponent(
 	"bitrix:news",
 	"",
 	Array(
@@ -68,4 +70,4 @@ $APPLICATION->SetTitle("Вакансии");
 		"USE_SEARCH" => "N",
 		"VARIABLE_ALIASES" => Array("ELEMENT_ID"=>"ELEMENT_ID","SECTION_ID"=>"SECTION_ID")
 	)
-);?>Вакансии<?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>
+);?><?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>
